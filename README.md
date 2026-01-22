@@ -10,7 +10,7 @@ Meu objetivo atual é me tornar um desenvolvedor **Back End**, mas eventualmente
 
 **Linguagens De Programação**
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/heitorbsqt/exercicios-e-estudos/tree/9deebbc71132ab8fd4a50e32116c983b663ee7df/C%2B%2B)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
